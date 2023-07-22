@@ -63,6 +63,10 @@ You can also easily deploy an instance of ZWS on Railway.
 
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/zws-im/zws/tree/main)
 
+### Render
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/zws-im/zws)
+
 We provide a template app specification YAML file to allow users to launch an instance on the DigitalOcean App Platform.
 
 ### [Docker Compose][docker-compose]
